@@ -4,4 +4,4 @@
 - API Rate Limiting
 - API Versioning
 - Services on HTTPS
-- API Documentation using Swagger
+- API Documentation โดยใช้ Swagger
